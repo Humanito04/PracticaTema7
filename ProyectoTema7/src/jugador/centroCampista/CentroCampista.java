@@ -15,7 +15,7 @@ public class CentroCampista extends Jugador {
 		return this.pasesCompletados;
 	}
 
-	public void setPasesCompletados(int pasesCompletados) {
+	public void setPasesCompletados(int pasesCompletados) { 
 		this.pasesCompletados = pasesCompletados;
 	}
 	@Override
