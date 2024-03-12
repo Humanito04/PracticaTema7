@@ -1,0 +1,18 @@
+2024-03-12 12:33:26,334 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-12 12:34:52,758 [Worker-14: Creating project "PracticaTema7"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: PracticaTema7:PracticaTema7:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\WSGIT\PracticaTema7\PracticaTema7\pom.xml.
+2024-03-12 12:34:53,621 [Worker-14: Creating project "PracticaTema7"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PracticaTema7/src/main/java
+2024-03-12 12:34:53,622 [Worker-14: Creating project "PracticaTema7"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PracticaTema7/src/main/resources
+2024-03-12 12:34:53,623 [Worker-14: Creating project "PracticaTema7"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PracticaTema7/src/test/java
+2024-03-12 12:34:53,623 [Worker-14: Creating project "PracticaTema7"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PracticaTema7/src/test/resources
+2024-03-12 12:34:54,343 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-12 12:34:54,347 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 12:34:54,352 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-12 12:34:54,353 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-03-12 12:35:59,969 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-12 12:35:59,972 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 12:35:59,974 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-12 12:35:59,976 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-03-12 12:36:24,938 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-12 12:36:24,939 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 12:36:24,941 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-03-12 12:36:24,943 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
