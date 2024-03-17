@@ -34,7 +34,7 @@ public class Pivote extends CentroCampista{
 	public boolean equals (Object obj) {
 		Pivote otro=(Pivote)obj;
 		boolean result= false;
-		if(super.equals(otro)&&this.getPasesCompletados()==otro.getPasesCompletados() && this.intercepciones == otro.intercepciones) {
+		if(super.equals(otro) && this.intercepciones == otro.intercepciones) {
 			result=true;
 		}
 		return result;
