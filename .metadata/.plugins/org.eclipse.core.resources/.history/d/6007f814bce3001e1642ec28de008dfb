@@ -1,0 +1,9 @@
+package jugador.delantero;
+
+public class Extremo {
+
+	public Extremo() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

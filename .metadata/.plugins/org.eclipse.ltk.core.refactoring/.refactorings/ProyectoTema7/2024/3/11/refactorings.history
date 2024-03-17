@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;goolesDePenalti&apos; in &apos;jugador.delantero.DelanteroCentro&apos; to &apos;golesDePenalti&apos;&#x0D;&#x0A;- Original project: &apos;ProyectoTema7&apos;&#x0D;&#x0A;- Original element: &apos;jugador.delantero.DelanteroCentro.goolesDePenalti&apos;&#x0D;&#x0A;- Renamed element: &apos;jugador.delantero.DelanteroCentro.golesDePenalti&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="true" description="Rename field &apos;goolesDePenalti&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;jugador.delantero{DelanteroCentro.java[DelanteroCentro^goolesDePenalti" name="golesDePenalti" references="true" setter="false" stamp="1710689528602" textual="false" version="1.0"/>
+</session>

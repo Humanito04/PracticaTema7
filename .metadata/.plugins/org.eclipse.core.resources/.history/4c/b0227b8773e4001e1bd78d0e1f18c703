@@ -1,0 +1,9 @@
+package jugador.delantero;
+
+public class DelanteroCentro {
+
+	public DelanteroCentro() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
